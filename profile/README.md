@@ -1,5 +1,5 @@
 <a href="https://verbb.io" rel="noopener" target="_blank">
-    <img width="150" src="https://verbb.io/assets/img/verbb-pill.svg" alt="Verbb">
+    <img width="150" height="49" src="https://verbb.io/assets/img/verbb-pill.svg" alt="Verbb">
 </a>
 
 <br>

@@ -1,6 +1,4 @@
-<a href="https://verbb.io" rel="noopener" target="_blank">
-    <img width="150" height="49" src="https://verbb.io/assets/img/verbb-pill.svg" alt="Verbb">
-</a>
+<img width="1501" alt="banner@2x" src="https://github.com/user-attachments/assets/d38c07f9-a1d6-461d-a04a-3057180cb4b0">
 
 <br>
 <br>
